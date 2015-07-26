@@ -3,10 +3,10 @@
   "description": "Image Editor in standard jQuery plugin Structure. Fork from https://github.com/tapmodo/Jcrop",
   "homepage": "https://github.com/monstrum/Jcrop",
   "keywords": [
-    "dragndrop",
-    "drag and drop",
-    "file upload",
-    "upload"
+    "image drag and crop",
+    "crop",
+    "zoom and crop",
+    "thumbnail"
   ],
   "authors": [{
     "name": "Matias Meno",

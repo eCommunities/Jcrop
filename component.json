@@ -1,0 +1,10 @@
+{
+  "name": "jcrop",
+  "repo": "monstrum/jcrop",
+  "version": "4.0.1",
+  "description": "Image Editor in standard jQuery plugin Structure",
+  "scripts": [ "index.js", "dist/dropzone.js" ],
+  "styles": [ "dist/basic.css" ],
+  "dependencies": { },
+  "license": "MIT"
+}

@@ -1,1 +1,8 @@
 demos/test*
+build/
+demos/
+js/
+css/
+test/
+src/jquery.jcrop.css
+src/jquery.jcrop.css.map
